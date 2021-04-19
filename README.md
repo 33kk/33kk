@@ -1,3 +1,1 @@
-# Yes.
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=33kk&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=33kk&theme=dark)
+![Metrics](https://github.com/33kk/33kk/blob/master/github-metrics.svg)
