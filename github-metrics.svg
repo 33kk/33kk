@@ -1371,7 +1371,7 @@
                                             Qalculate/qalculate-gtk
                                         </span>
                                         <span>
-                                            starred 2 hours ago
+                                            starred 3 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -1827,7 +1827,7 @@
                     These metrics do not include all private contributions, timezone UTC
                 </span>
                 <span>
-                    Last updated Wed, 21 Apr 2021 22:11:55 GMT with lowlighter/metrics@3.7.0
+                    Last updated Wed, 21 Apr 2021 23:11:54 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
