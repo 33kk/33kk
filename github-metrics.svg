@@ -1341,7 +1341,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>manga-download/hakuneko</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1383,7 +1383,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fosscord/fosscord</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1425,7 +1425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sindrets/diffview.nvim</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1599,7 +1599,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions, timezone UTC</span>
-                <span>Last updated Wed, 05 May 2021 18:13:22 GMT with lowlighter/metrics@3.8.0</span>
+                <span>Last updated Wed, 05 May 2021 19:09:14 GMT with lowlighter/metrics@3.8.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
