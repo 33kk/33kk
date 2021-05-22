@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1399" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1798" class="">
     <defs>
         <style/>
     </defs>
@@ -1242,7 +1242,7 @@
                         <div class="field ">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/></svg>
               
-                779 views in last two weeks
+                781 views in last two weeks
               
             </div>
                     </section>
@@ -1518,6 +1518,235 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 31 commits in <span class="repo">33kk/flameshot</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#29003c9</span>
+                                        <span class="message">Set QSpinBox max value before settings its value</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#cb13a3a</span>
+                                        <span class="message">Update README command uploader example</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a856f4a</span>
+                                        <span class="message">clang-format</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9c0393e</span>
+                                        <span class="message">Reimplement history, add uploader command cli config flag, add upload history max size config option.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f48ecdb</span>
+                                        <span class="message">Use filename pattern as fallback instead of ISO time</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d0f4701</span>
+                                        <span class="message">Fix command example in README</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4d8723f</span>
+                                        <span class="message">Fix filename display in Latest Uploads</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6ba7737</span>
+                                        <span class="message">Fix command example in README</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#07ad18a</span>
+                                        <span class="message">clang-format</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9b26231</span>
+                                        <span class="message">Fix some warnings</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#52b9344</span>
+                                        <span class="message">Add command uploader section in README</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#26842ba</span>
+                                        <span class="message">Add Command Uploader</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8f6b6b0</span>
+                                        <span class="message">Update README.md</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#efa2336</span>
+                                        <span class="message">NC/fix - Text object selection (#1635)
+
+* fix - It is possible to edit previously created text by clicking editing frame of another one &amp; search optimization
+
+(cherry picked from commit 749c968f0bfe1ea4b54c0f2e58c0766365f9fc01)
+
+* fix - It is possible to edit previously created text by clicking editing frame of another one (final fix)
+
+(cherry picked from commit f80de3137b2a364d39021440c812fc97c81423ea)
+
+Co-authored-by: Yuriy Puchkov &lt;yuriy.puchkov@namecheap.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#401e627</span>
+                                        <span class="message">NC/fix - App crashes (one more fix for the same issue) (#1632)
+
+* fix - App crashes if during editing text add any object (one more fix for the same issue)
+
+(cherry picked from commit 08a3b01929ac01de26a25883f3acded6a29c500b)
+
+* fix - Upload doesn't called (active tool is not set on processTool)
+
+(cherry picked from commit d914b2ba7ba4d1741f6e990587d13a5d08b0c591)
+
+* fix - crash on draw (rollback optimisation)
+
+(cherry picked from commit 2769c45eac69c6a36284a4d5a16ca2c49262d158)
+
+Co-authored-by: Yuriy Puchkov &lt;yuriy.puchkov@namecheap.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ed3491f</span>
+                                        <span class="message">NC/Fixes for 0.10.0 Beta (crash and some others) (#1631)
+
+* fix - crash if during editing text add any object
+
+(cherry picked from commit f5ae7c083965a4a65bd39ff554d667a1e68c4b37)
+
+* fix - Phantom is displayed on a screen if the figure was moved after double click on it and the last changes were undo and redo
+
+(cherry picked from commit 181979162fc7b2c398d7c84e95526ebb4fa4780f)
+
+* fix - Undo tool undo the last created object instead undo changing if click undo during editing object
+
+(cherry picked from commit 27bbb3a3b29718d476b9f8d98a0efa9fa12f16c2)
+
+Co-authored-by: Yuriy Puchkov &lt;yuriy.puchkov@namecheap.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9398b58</span>
+                                        <span class="message">Beta release for version 0.10.0 (#1629)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c7c1fc0</span>
+                                        <span class="message">chore(CI): support packaging on fedora 34 (#1627)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5213aaf</span>
+                                        <span class="message">NC/Number of fixes, details in commits (#1620)
+
+* fix - General Configuration widget has big spaces between last few options
+
+(cherry picked from commit 48b9135a8d654a388fd4d0a266e9097456d00ab7)
+
+* Set limit for Latest Uploads Max Size to 50
+
+(cherry picked from commit ef1d83529c5e33ec3819820f3231e5c503aebf61)
+
+* Completely reworked undo/redo stack with fixes (object that was created after deleted one disappears when undo last object creating and deleting the first one and try to undo deletion)
+
+(cherry picked from commit 8d8c0b0d4a5ba8ecd7dc1c367c220642975c95d1)
+
+* - Save font on new text object creation
+- Remove unused variable context.circleCount
+
+(cherry picked from commit 26f7bf620849c68062838d503f8731feea8d4987)
+
+* Code refactoring - remove unused m_context.widgetDimensions
+
+(cherry picked from commit 76abc09ce07a71ae42f1826a5a1e1e35902960d5)
+
+* Make font size other tools thickness independent
+
+(cherry picked from commit 5633799fb07acaa50cae5373953e40fa85f700bc)
+
+* fix - Font parameters doesn't disappear in panel on click text item in it
+
+(cherry picked from commit 8322cbb1acae75c77d4c24b74bc366ba93497d46)
+
+* fix - Save thickness if no tool selected
+
+(cherry picked from commit 862f2f4806a0c8d1309daae6a3371f6bd2fc5e5c)
+
+* fix - Line thickness has not required padding after saving configuration, code refactoring remove number of unused '#define PADDING_VALUE'
+
+(cherry picked from commit 294c89ad4fc9d1230942f8b7aa0a13deff7ab1eb)
+
+Co-authored-by: Yuriy Puchkov &lt;yuriy.puchkov@namecheap.com&gt;</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b07028c</span>
+                                        <span class="message">Translations update from Weblate (#1615)
+
+* Translated using Weblate (Korean)
+
+Currently translated at 50.7% (134 of 264 strings)
+
+Translation: Flameshot/Flameshot
+Translate-URL: https://hosted.weblate.org/projects/flameshot/flameshot/ko/
+
+* Translated using Weblate (Indonesian)
+
+Currently translated at 17.4% (46 of 264 strings)
+
+Translation: Flameshot/Flameshot
+Translate-URL: https://hosted.weblate.org/projects/flameshot/flameshot/id/
+
+* Translated using Weblate (Indonesian)
+
+Currently translated at 32.5% (86 of 264 strings)
+
+Translation: Flameshot/Flameshot
+Translate-URL: https://hosted.weblate.org/projects/flameshot/flameshot/id/
+
+* Translated using Weblate (Indonesian)
+
+Currently translated at 34.0% (90 of 264 strings)
+
+Translation: Flameshot/Flameshot
+Translate-URL: https://hosted.weblate.org/projects/flameshot/flameshot/id/
+
+* Added translation using Weblate (Galician)
+
+* Translated using Weblate (Chinese (Traditional))
+
+Currently translated at 78.0% (206 of 264 strings)
+
+Translation: Flameshot/Flameshot
+Translate-URL: https://hosted.weblate.org/projects/flameshot/flameshot/zh_Hant/
+
+* Translated using Weblate (Indonesian)
+
+Currently translated at 52.6% (139 of 264 strings)
+
+Translation: Flameshot/Flameshot
+Translate-URL: https://hosted.weblate.org/projects/flameshot/flameshot/id/
+
+* Translated using Weblate (Galician)
+
+Currently translated at 13.6% (36 of 264 strings)
+
+Translation: Flameshot/Flameshot
+Translate-URL: https://hosted.weblate.org/projects/flameshot/flameshot/gl/
+
+Co-authored-by: Aditya Rahman &lt;adityarahman032@gmail.com&gt;
+Co-authored-by: Reza Almanda &lt;rezaalmanda27@gmail.com&gt;
+Co-authored-by: Jacque Fresco &lt;aidter@use.startmail.com&gt;
+Co-authored-by: Monkey D. Luffy &lt;guilheiaw@gmail.com&gt;
+Co-authored-by: 曹恩逢 &lt;nelson22768384@gmail.com&gt;</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">33kk/woah</span>
                     </div>
                                 </div>
@@ -1565,19 +1794,6 @@
                                     <div class="content">
                       Created new
                       branch  <span class="code">master</span> in  <span class="repo">33kk/woah</span>
-                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                      Created new
-                      repository  <span class="repo">33kk/woah</span>
                     </div>
                                 </div>
                             </section>
@@ -1709,7 +1925,7 @@ One day, Senpai visits the library after school and becomes the target of a supe
             </section>
             <footer>
                 <span>These metrics do not include all private contributions, timezone UTC</span>
-                <span>Last updated Sat, 22 May 2021 22:07:41 GMT with lowlighter/metrics@3.9.0</span>
+                <span>Last updated Sat, 22 May 2021 23:07:21 GMT with lowlighter/metrics@3.9.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
